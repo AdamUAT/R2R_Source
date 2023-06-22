@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+     <regString>Software\Big Fish Games\Games\Mystery Case Files - Ravenhearst2\data\</regString>
+     <upsellEnabled>0</upsellEnabled>
+     <forumLinkEnabled>0</forumLinkEnabled>
+     <forumLink>http://forums.bigfishgames.com/game/mystery-case-files-return-to-ravenhearst</forumLink>
+     <strategyGuideEnabled>0</strategyGuideEnabled>
+     <strategyGuideLink>http://www.bigfishgames.com/download-games/4437/mcf-return-to-ravenhearst-strategy-guide/index.html</strategyGuideLink>
+     <soundtrackLink>http://www.bigfishgames.com/download-games/4442/mcf-return-to-ravenhearst-ost/index.html</soundtrackLink>
+
+     <upsellData>
+          <upsell1>http://www.bigfishgames.com/downloads/mysterycasefileshu/index.html</upsell1>
+          <upsell2>http://www.bigfishgames.com/downloads/mysterycasefilespr/index.html</upsell2>
+          <upsell3>http://www.bigfishgames.com/downloads/mysterycasefilesra/index.html</upsell3>
+          <upsell4>http://www.bigfishgames.com/download-games/2230/mystery-case-files-madam-fate/index.html</upsell4>
+          <upsell5>http://www.bigfishgames.com/download-games/4294/mystery-case-files-return-to-ravenhearst</upsell5>
+          <upsell6>http://www.mysterycasefiles.com/games/millionheir</upsell6>
+          <upsell7>http://www.bigfishgames.com/download-games/6414/mystery-case-files-dire-grove-collector</upsell7>
+          <upsell8>http://www.bigfishgames.com/download-games/9753/mystery-case-files-13th-skull-collectors/index.html</upsell8>
+          <upsell9>http://www.bigfishgames.com/download-games/14912/mystery-case-files-escape-ravenhearst-ce/index.html</upsell9>
+          <upsell10></upsell10>
+     </upsellData>
+     <debug>0</debug>
+</data>
